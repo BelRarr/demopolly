@@ -1,0 +1,3 @@
+﻿enable cors in asp.net core web api:
+https://stackoverflow.com/questions/44379560/how-to-enable-cors-in-asp-net-core-webapi
+
